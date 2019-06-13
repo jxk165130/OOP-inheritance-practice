@@ -11,7 +11,7 @@ public class Myclass {
 
         per.setYear(1990);
         per.setMake("honda");
-        System.out.println(per.getYear() + per.getMake());
+        System.out.println(per);
 
 
     }
