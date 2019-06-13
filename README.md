@@ -1,5 +1,6 @@
 # OOP-inheritance-practice
 #creating inheritance structure and using overring super class method
+#check user email if it contain "@" or "." 
 
 ## understand how to use getter and setter and overloading construtor
 
