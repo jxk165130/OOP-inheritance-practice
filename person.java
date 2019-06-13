@@ -11,4 +11,11 @@ public class person extends car {
     public String getMake() {
         return super.getMake() + " Japan";
     }
+    
+    //example of using toString
+    @Override
+    public String toString() {
+        return this.getYear() + ", " +  this.getMake();
+
+    }
 }
